@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tesis1</string>
+    <string name="com_auth0_client_id">81VwG40JwzGKrRLS2AsP4rmYa0pY5SA1</string>
+    <string name="com_auth0_domain">dev-anhvu3vb8rovtp70.us.auth0.com</string>
+    <string name="com_auth0_scheme">demo</string>
+
+</resources>
